@@ -3,7 +3,7 @@ console.log("Testing. Testing. What's good, homies??");
 // Given an array, find the integer that appears an odd number of times.
 
 // There will always be only one integer that appears an odd number of times.
-
+//this might help with finding the frequency https://stackoverflow.com/questions/5667888/counting-the-occurrences-frequency-of-array-elements
 function findOdd(A) {
   //happy coding!
   A.sort();
