@@ -7,6 +7,7 @@ console.log("Testing. Testing. What's good, homies??");
 //a bit bummed that freq isn't a built in method. booooo!
 function findOdd(A) {
   //happy coding!
+  //find frequency of each number in array
   A.sort();
   console.log(A);
 
