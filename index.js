@@ -8,6 +8,7 @@ console.log("Testing. Testing. What's good, homies??");
 function findOdd(A) {
   //happy coding!
   //find frequency of each number in array
+  //then use % to
   A.sort();
   console.log(A);
 
