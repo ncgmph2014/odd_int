@@ -8,7 +8,8 @@ console.log("Testing. Testing. What's good, homies??");
 function findOdd(A) {
   //happy coding!
   //find frequency of each number in array
-  //then use % to
+  //then use %
+  //if the frequency % 2 !==0 then it's odd and return that number
   A.sort();
   console.log(A);
 
