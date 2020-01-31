@@ -4,6 +4,7 @@ console.log("Testing. Testing. What's good, homies??");
 
 // There will always be only one integer that appears an odd number of times.
 //this might help with finding the frequency https://stackoverflow.com/questions/5667888/counting-the-occurrences-frequency-of-array-elements
+//a bit bummed that freq isn't a built in method.
 function findOdd(A) {
   //happy coding!
   A.sort();
