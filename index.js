@@ -6,6 +6,9 @@ console.log("Testing. Testing. What's good, homies??");
 
 function findOdd(A) {
   //happy coding!
+  A.sort();
+  console.log(A);
+
   return 0;
 }
 
